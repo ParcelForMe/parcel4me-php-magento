@@ -8,8 +8,8 @@
 
 One-click checkout and delivery for Magento, using Parcel For Me.
 
-![](https://woocommerce.com/wp-content/themes/woomattic/images/logo-woocommerce@2x.png)
 ![](http://parcelfor.me/images/site/logo--horizontal.svg)
+![](http://developers.gigya.com/download/attachments/8553412/magento%20large.png)
 
 See the [parcelfor.me](http://parcelfor.me/) website for more information about Parcel For Me.
 
