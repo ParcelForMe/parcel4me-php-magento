@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+ 
+<config>
+    <modules>
+        <Parcel4me_Parcel4Me>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Parcel4me_Parcel4Me>
+    </modules>
+</config>

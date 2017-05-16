@@ -13,3 +13,11 @@ One-click checkout and delivery for Magento, using Parcel For Me.
 
 See the [parcelfor.me](http://parcelfor.me/) website for more information about Parcel For Me.
 
+
+
+------
+
+**Note:** For auto-plugin-install *while developing* use : 
+`fsmonitor -s -p -d parcel4me/* cp -r parcel4me/* ../magento/magento1.7.0.2/`
+
+------

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+ 
+<config>
+    <modules>
+        <Parcel4me_Parcel4me>
+            <version>0.1.0</version>
+        </Parcel4me_Parcel4me>
+    </modules>
+</config>
